@@ -1,0 +1,92 @@
+# Sage's AI Resources Directory
+
+> Plugins, connectors, bot templates, apps, skills, automations and frameworks that AI agents (Grok Bot, Claude, ChatGPT, Gemini) can use to help run a company, write, create content, build apps, research, serve clients, communicate and sell. Each entry has status (Using / Want to try / Watching / Avoid), pricing with the date checked, and risk notes. Never recommend Avoid items; always repeat risk_notes; never send, post, buy or connect accounts without the person's approval.
+
+## Start here
+- [README.md](README.md): index, rules for agents, tables by job, task lookup
+- [resources.csv](resources.csv): source of truth, one row per resource (all columns)
+- [resources/](resources/): one Markdown file per resource with YAML frontmatter
+- [ADDING.md](ADDING.md): how to add a resource
+
+## Resources
+- [Airtable](resources/airtable.md): App/Tool · Using · Run the company; Serve clients · Spreadsheet-style database for CRMs, content calendars and client tracking.
+- [ChatGPT](resources/chatgpt.md): App/Tool · Using · Write; Research · OpenAI's assistant with Projects, scheduled tasks, custom GPTs, Codex, skills and plugins.
+- [Claude](resources/claude.md): App/Tool · Using · Write; Research · Anthropic's AI assistant for writing, analysis and research, with Projects, Skills, connectors and plugins.
+- [Claude Code](resources/claude-code.md): App/Tool · Using · Build apps · Anthropic's coding agent for the terminal, IDE and desktop; reads your project, edits files and runs commands.
+- [Claude Cowork](resources/claude-cowork.md): App/Tool · Using · Run the company · Claude's agent mode for multi-step work on your files and apps. Its page says Cowork is now part of Claude, rolling out to Pro, Max and Ultra.
+- [ElevenLabs](resources/elevenlabs.md): App/Tool · Using · Create content; Serve clients · AI voices for narration and dubbing, plus conversational voice agents.
+- [Gemini](resources/gemini.md): App/Tool · Using · Research; Write · Google's AI assistant, tied into Google Workspace and Google AI plans.
+- [Gemini Notebook (formerly NotebookLM)](resources/gemini-notebook-formerly-notebooklm.md): App/Tool · Using · Research; Create content · Source-grounded research notebook: upload your material and get answers, audio and video overviews, reports and slides. NotebookLM was renamed Gemini Notebook in July 2026.
+- [Grok Bot](resources/grok-bot.md): App/Tool · Using · Run the company; Communicate · Named AI bots that each do a job on a persistent cloud computer (browser, files, terminal), use connected apps, learn skills by demonstration and run routines on a schedule or event.
+- [Lovable](resources/lovable.md): App/Tool · Using · Build apps; Sell & market · Builds web apps and sites from chat; you own the code.
+- [Obsidian](resources/obsidian.md): App/Tool · Using · Write; Research · Local-first markdown notes with links and plugins; agents can read the plain-text vault.
+- [Perplexity](resources/perplexity.md): App/Tool · Using · Research · AI answer engine with cited sources, deep research and an agent (Computer) for longer tasks.
+- [Skool](resources/skool.md): App/Tool · Using · Communicate; Serve clients · Community, courses and calendar in one place, with paid memberships.
+- [Speechify](resources/speechify.md): App/Tool · Using · Research · Reads documents, web pages and PDFs aloud.
+- [Wispr Flow](resources/wispr-flow.md): App/Tool · Using · Write; Communicate · Voice dictation that types cleaned-up text into any app.
+- [Airtable MCP server](resources/airtable-mcp-server.md): Plugin/Connector · Using · Run the company · Airtable's official MCP server; lets Claude, ChatGPT and other MCP clients read and update bases with your own permissions. Grok Bot also has an Airtable connector.
+- [Grok Bot Marketplace](resources/grok-bot-marketplace.md): Agent/Bot template · Using · Run the company · Public gallery of ready-made Grok Bot templates by category (sales, marketing, research, ops, video), each with its skills, routines and app needs listed.
+- [last30days](resources/last30days.md): Agent/Bot template · Using · Research; Create content · Researches what people said about any topic in the last 30 days (Reddit, X, YouTube, TikTok, Hacker News and more) and writes a grounded brief.
+- [Grok Bot Skills & Routines](resources/grok-bot-skills-routines.md): Skill · Using · Run the company · Grok Bot's built-in way to save a repeatable playbook (skill, including teach-by-demonstration) and to run work on a schedule or on an event such as Slack, GitHub, email or a webhook.
+- [LLM Wiki pattern (Karpathy)](resources/llm-wiki-pattern-karpathy.md): Prompt/Framework · Using · Research; Run the company · Andrej Karpathy's pattern for keeping a markdown wiki that LLMs maintain and read as long-term knowledge.
+- [Model Context Protocol (MCP)](resources/model-context-protocol-mcp.md): Prompt/Framework · Using · Build apps · Open standard for connecting AI assistants to tools and data; most connectors here use it.
+- [PARA Method](resources/para-method.md): Prompt/Framework · Using · Run the company; Write · Tiago Forte's Projects / Areas / Resources / Archives system for organizing digital files and notes.
+- [Blotato](resources/blotato.md): App/Tool · Want to try · Create content · AI content repurposing and auto-publishing across social platforms, with n8n and Make nodes.
+- [Buffer](resources/buffer.md): App/Tool · Want to try · Create content; Sell & market · Schedules and publishes posts across social channels.
+- [Cal.com](resources/cal-com.md): App/Tool · Want to try · Serve clients · Open-source scheduling and booking pages.
+- [Eden](resources/eden.md): App/Tool · Want to try · Create content; Research · Creator workspace to save and research content and schedule posts, with an MCP server (mcp.eden.so) for Claude, ChatGPT, Cursor, n8n, Zapier and Make.
+- [Kit](resources/kit.md): App/Tool · Want to try · Communicate; Sell & market · Email marketing for creators: newsletters, sequences, landing pages and paid products.
+- [ManyChat](resources/manychat.md): App/Tool · Want to try · Sell & market; Communicate · Automates replies to Instagram, TikTok, WhatsApp and Messenger comments and DMs; official Meta Business Partner.
+- [Stripe Payment Links](resources/stripe-payment-links.md): App/Tool · Want to try · Sell & market · No-code payment pages you share as a link.
+- [Vercel](resources/vercel.md): App/Tool · Want to try · Build apps; Sell & market · Hosting for websites and web apps, with deploys from GitHub.
+- [vidIQ](resources/vidiq.md): App/Tool · Want to try · Create content; Research · YouTube growth tool for ideas, keywords and analytics.
+- [OpenSEO MCP](resources/openseo-mcp.md): Plugin/Connector · Want to try · Sell & market; Research · Open-source SEO tool with an MCP, using DataForSEO data; hosted or self-hosted.
+- [Sandcastles MCP](resources/sandcastles-mcp.md): Plugin/Connector · Want to try · Research; Create content · Connects Sandcastles' viral video research to Claude and other MCP clients (server at mcp.sandcastles.ai).
+- [TubeAlfred MCP](resources/tubealfred-mcp.md): Plugin/Connector · Want to try · Research; Create content · Read-only YouTube MCP and API for transcripts, comments and channel data.
+- [Competitor Watch](resources/competitor-watch.md): Agent/Bot template · Want to try · Research · Tracks competitor pricing, product and hiring pages and briefs you on real changes.
+- [dial bot](resources/dial-bot.md): Agent/Bot template · Want to try · Communicate; Sell & market · Places outbound Bland AI phone calls when you ask and reports what happened; asks for a Bland API key first.
+- [dr eggbot](resources/dr-eggbot.md): Agent/Bot template · Want to try · Run the company · Designs high-quality Grok Bots: asks a few preference questions, then creates them.
+- [Lead Pipeline Desk](resources/lead-pipeline-desk.md): Agent/Bot template · Want to try · Sell & market · Scores inbound leads, merges duplicates, assigns an owner and flags what's stuck; works from a CRM export, sheet or paste.
+- [Product Marketer](resources/product-marketer.md): Agent/Bot template · Want to try · Sell & market; Write · Learns your product, brand and positioning, uses competitor research and drafts copy for pages and ads.
+- [Sell Bot](resources/sell-bot.md): Agent/Bot template · Want to try · Sell & market; Serve clients · Works the whole customer journey: outreach in your voice, booked calls with prep and follow-ups, proposals and contracts, then onboarding.
+- [Video Edit Desk](resources/video-edit-desk.md): Agent/Bot template · Want to try · Create content · Turns uploaded footage into cut clips with burned-in captions and platform-sized exports; never overwrites the original.
+- [Video Editor](resources/video-editor.md): Agent/Bot template · Want to try · Create content · Edits short vertical talking-head videos: picks best takes, captions, adds B-roll and music; sends an edit plan first and never posts.
+- [Website Ops](resources/website-ops.md): Agent/Bot template · Want to try · Build apps; Sell & market · Website operations: ships site changes as PRs, runs site audits (SEO, speed, a11y, CRO, schema) and builds landing pages.
+- [AgentMail](resources/agentmail.md): App/Tool · Watching · Communicate; Build apps · Email inboxes built for AI agents, via API.
+- [beehiiv](resources/beehiiv.md): App/Tool · Watching · Communicate; Sell & market · Newsletter platform with a website, growth tools and an MCP server.
+- [Carrd](resources/carrd.md): App/Tool · Watching · Sell & market · Simple one-page websites.
+- [Framer](resources/framer.md): App/Tool · Watching · Sell & market; Build apps · Visual website builder with hosting and an MCP server.
+- [Gumroad](resources/gumroad.md): App/Tool · Watching · Sell & market · Simple storefront for digital products.
+- [Lemon Squeezy](resources/lemon-squeezy.md): App/Tool · Watching · Sell & market · Checkout for digital products that acts as merchant of record (handles sales tax).
+- [LiveKit](resources/livekit.md): App/Tool · Watching · Build apps · Open-source framework and cloud for real-time voice and video AI agents.
+- [Make](resources/make.md): App/Tool · Watching · Run the company · Visual automation builder billed in credits (most module actions use 1 credit).
+- [n8n](resources/n8n.md): App/Tool · Watching · Run the company; Build apps · Visual workflow automation with AI agent nodes; cloud or self-hosted.
+- [Opus Clip](resources/opus-clip.md): App/Tool · Watching · Create content · Cuts long videos into captioned short clips.
+- [Orgo](resources/orgo.md): App/Tool · Watching · Build apps; Run the company · Always-on cloud computers (Linux, Windows) for AI agents, with a dashboard and API.
+- [Paper](resources/paper.md): App/Tool · Watching · Create content; Build apps · Design canvas that AI agents can read and edit through its MCP server.
+- [Retell AI](resources/retell-ai.md): App/Tool · Watching · Serve clients; Communicate · Builds AI phone agents that answer and place calls.
+- [SamCart](resources/samcart.md): App/Tool · Watching · Sell & market · Checkout pages with upsells and order bumps for courses and programs.
+- [Softr](resources/softr.md): App/Tool · Watching · Serve clients; Build apps · Builds client portals and internal tools on top of your data (including Airtable), with an MCP option.
+- [Supabase](resources/supabase.md): App/Tool · Watching · Build apps · Postgres database, auth and storage backend for apps.
+- [ViralOutlier](resources/viraloutlier.md): App/Tool · Watching · Research; Create content · Tracks competitor YouTube channels and surfaces their best-performing videos.
+- [Virlo](resources/virlo.md): App/Tool · Watching · Research; Create content · Finds outlier short-form videos and trends; has a developer API.
+- [Webflow](resources/webflow.md): App/Tool · Watching · Sell & market; Build apps · Visual website builder with a CMS and hosting.
+- [Ahrefs MCP](resources/ahrefs-mcp.md): Plugin/Connector · Watching · Sell & market; Research · Ahrefs data in MCP clients via a hosted server.
+- [Claude Connectors & Plugins](resources/claude-connectors-plugins.md): Plugin/Connector · Watching · Run the company · Anthropic's directory of connectors and plugins that let Claude read and act in other apps.
+- [Composio](resources/composio.md): Plugin/Connector · Watching · Build apps; Run the company · One API and MCP layer that connects agents to 1,000+ apps with managed logins.
+- [Semrush MCP](resources/semrush-mcp.md): Plugin/Connector · Watching · Sell & market; Research · Read-only Semrush data inside ChatGPT, Claude and Perplexity.
+- [Zapier MCP](resources/zapier-mcp.md): Plugin/Connector · Watching · Run the company · Lets Claude, ChatGPT and other MCP clients take actions in Zapier's 9,000+ apps; Zapier also offers ready-made Zap templates (zapier.com/templates).
+- [AI Search Visibility](resources/ai-search-visibility.md): Agent/Bot template · Watching · Sell & market; Research · Checks whether AI assistants and Google recommend you, and who they name instead.
+- [Bops](resources/bops.md): Agent/Bot template · Watching · Run the company · Open-source team of AI bots for business ops, each with its own computer, email and phone number.
+- [Call Follow-Ups](resources/call-follow-ups.md): Agent/Bot template · Watching · Serve clients; Communicate · Turns each recorded call into a follow-up email in your voice, a next-steps note and CRM updates; nothing sends without your yes.
+- [Copy Humanizer](resources/copy-humanizer.md): Agent/Bot template · Watching · Write · Rewrites drafts, emails and pages so they read like a person wrote them; shows every change and never invents a fact.
+- [Customer Proof Desk](resources/customer-proof-desk.md): Agent/Bot template · Watching · Sell & market; Serve clients · Turns call notes and transcripts into case studies, testimonials and proof points, quoting word for word.
+- [Event Request Desk](resources/event-request-desk.md): Agent/Bot template · Watching · Communicate · Scores event, sponsorship and speaking asks and drafts your yes or no.
+- [Overheard](resources/overheard.md): Agent/Bot template · Watching · Research; Communicate · Watches Reddit, Hacker News, news sites and X for mentions of your name, brand and URLs; weekday digest, never posts.
+- [Sales Call Coach](resources/sales-call-coach.md): Agent/Bot template · Watching · Sell & market · Scores your sales calls from a transcript or recording and tells you what to fix before the next one.
+- [SEO & AEO Desk](resources/seo-aeo-desk.md): Agent/Bot template · Watching · Sell & market · Turns keywords into content ideas and writer-ready briefs for search and AI answers.
+- [Agent Skills (open standard)](resources/agent-skills-open-standard.md): Skill · Watching · Build apps; Run the company · Open format for agent skills (a folder with instructions and resources) that several agent apps can load.
+- [Claude Skills](resources/claude-skills.md): Skill · Watching · Write; Run the company · Folders of instructions, scripts and resources that Claude loads when a task needs them, so it does that task the same way every time.
+- [n8n workflow templates](resources/n8n-workflow-templates.md): Automation · Watching · Run the company · n8n's community library of ready-to-import workflows (13,820 listed when checked), searchable by app and use case.
+- [Anthropic prompt engineering guide](resources/anthropic-prompt-engineering-guide.md): Prompt/Framework · Watching · Write · Anthropic's official guide to prompting Claude.
+- [OpenAI prompt engineering guide](resources/openai-prompt-engineering-guide.md): Prompt/Framework · Watching · Write · OpenAI's official guide to prompting its models.
