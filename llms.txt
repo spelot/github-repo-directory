@@ -1,0 +1,65 @@
+# Sage's GitHub Repo Directory
+
+> A searchable list of GitHub repos for AI consulting, content and vibe-coding, tagged by task, status (Using / Want to try / Watching / Avoid), quality signals and risk. Never recommend repos with status Avoid; always repeat their risk_notes.
+
+## Start here
+- [README.md](README.md): index, rules for agents, tables by category, task lookup
+- [repos.csv](repos.csv): source of truth, one row per repo (all columns)
+- [repos/](repos/): one Markdown file per repo with YAML frontmatter: instructions, use cases, videos, risk notes
+- [ADDING.md](ADDING.md): how to add a repo
+
+## Repos
+- [every-app/open-seo](repos/every-app__open-seo.md): Want to try · Marketing & SEO · Open-source Semrush/Ahrefs alternative for keyword research, site audits and rank tracking.
+- [spelot/Identity-Becoming-Mindset-Guide](repos/spelot__Identity-Becoming-Mindset-Guide.md): Using · Content & writing · Sage's own Becoming Interview: an AI interviewer that writes who you're becoming into a file your AI tools can use.
+- [Jakeschincariol/linkedin-agent-skill](repos/Jakeschincariol__linkedin-agent-skill.md): Want to try · Content & writing · Free Claude skills for LinkedIn posts, comments, replies and profile work, all as drafts.
+- [sergebulaev/linkedin-skills](repos/sergebulaev__linkedin-skills.md): Want to try · Content & writing · 12 Claude/Codex skills that draft LinkedIn posts, profile fixes, story banks and content plans.
+- [jdepoix/youtube-transcript-api](repos/jdepoix__youtube-transcript-api.md): Want to try · Agents & AI tools · Python library that pulls the transcript or subtitles of a YouTube video.
+- [stickerdaniel/linkedin-mcp-server](repos/stickerdaniel__linkedin-mcp-server.md): Avoid · Agents & AI tools · MCP server that drives your logged-in LinkedIn browser session to read profiles and send invites/messages.
+- [joeyism/linkedin_scraper](repos/joeyism__linkedin_scraper.md): Avoid · Agents & AI tools · Python/Playwright library that scrapes LinkedIn profiles, companies and posts with your logged-in session.
+- [GoogleCloudPlatform/open-knowledge-format](repos/GoogleCloudPlatform__open-knowledge-format.md): Using · Business ops & CRM · Google's vendor-neutral Markdown + YAML frontmatter format for knowledge that AI agents can read.
+- [mattpocock/skills](repos/mattpocock__skills.md): Using · Agents & AI tools · Matt Pocock's agent skills, including the 'Grill Me' interview skill.
+- [yt-dlp/yt-dlp](repos/yt-dlp__yt-dlp.md): Using · Agents & AI tools · Command-line tool that pulls video and channel info, subtitles and media from YouTube and other sites.
+- [Panniantong/Agent-Reach](repos/Panniantong__Agent-Reach.md): Watching · Agents & AI tools · One CLI that lets an AI agent search and read X, Reddit, YouTube, GitHub, LinkedIn jobs, XiaoHongShu, Bilibili and the web.
+- [Vinzent03/obsidian-git](repos/Vinzent03__obsidian-git.md): Want to try · Business ops & CRM · Obsidian plugin that adds Git version control and automatic commit-and-sync to a vault.
+- [git-ecosystem/git-credential-manager](repos/git-ecosystem__git-credential-manager.md): Want to try · Build · Secure Git credential storage that fixes GitHub sign-in errors.
+- [AgriciDaniel/claude-obsidian](repos/AgriciDaniel__claude-obsidian.md): Watching · Business ops & CRM · Self-organizing second brain for Obsidian + Claude Code based on Karpathy's LLM Wiki.
+- [obra/superpowers](repos/obra__superpowers.md): Watching · Agents & AI tools · Agentic skills framework and method for briefing AI coding agents.
+- [anthropics/skills](repos/anthropics__skills.md): Watching · Agents & AI tools · Anthropic's official public Agent Skills repo.
+- [anthropics/claude-code](repos/anthropics__claude-code.md): Using · Build · Claude Code: Anthropic's agentic coding tool for the terminal.
+- [ComposioHQ/awesome-claude-skills](repos/ComposioHQ__awesome-claude-skills.md): Watching · Agents & AI tools · Curated list of Claude Skills for docs, dev, testing and integrations.
+- [hesreallyhim/awesome-claude-code](repos/hesreallyhim__awesome-claude-code.md): Watching · Agents & AI tools · Hand-picked list of Claude Code resources, agents and add-ons.
+- [VoltAgent/awesome-agent-skills](repos/VoltAgent__awesome-agent-skills.md): Watching · Agents & AI tools · Curated collection of 1,000+ agent skills for Claude Code and other agents.
+- [filipecalegario/awesome-vibe-coding](repos/filipecalegario__awesome-vibe-coding.md): Watching · Learning · Curated list of vibe-coding tools and references for building with AI.
+- [livekit-examples/agent-starter-python](repos/livekit-examples__agent-starter-python.md): Watching · Build · Complete Python starter for LiveKit voice AI agents.
+- [f/prompts.chat](repos/f__prompts.chat.md): Watching · Content & writing · Community prompt library (formerly Awesome ChatGPT Prompts); self-hostable.
+- [openai/openai-cookbook](repos/openai__openai-cookbook.md): Watching · Learning · Official OpenAI examples and guides for prompting and API use.
+- [danielmiessler/Fabric](repos/danielmiessler__Fabric.md): Watching · Content & writing · Open-source framework of reusable AI patterns for writing, analysis and extraction.
+- [ai-boost/awesome-prompts](repos/ai-boost__awesome-prompts.md): Watching · Content & writing · Curated prompts, frameworks and papers for LLMs and agents.
+- [promptslab/Awesome-Prompt-Engineering](repos/promptslab__Awesome-Prompt-Engineering.md): Watching · Learning · Hand-curated prompt engineering resources for generative AI.
+- [dontriskit/awesome-ai-system-prompts](repos/dontriskit__awesome-ai-system-prompts.md): Watching · Content & writing · Curated system prompts from major AI tools.
+- [langgptai/awesome-claude-prompts](repos/langgptai__awesome-claude-prompts.md): Watching · Content & writing · Curated prompts written for Claude.
+- [alexsmedile/hormozi-skills](repos/alexsmedile__hormozi-skills.md): Watching · Marketing & SEO · Skill library for Hormozi-style offers, hooks and landing copy.
+- [microsoft/generative-ai-for-beginners](repos/microsoft__generative-ai-for-beginners.md): Watching · Learning · 21-lesson beginner course on building with generative AI.
+- [dubinc/dub.link](repos/dubinc__dub.link.md): Watching · Marketing & SEO · Open-source link shortening and attribution platform for marketing.
+- [formbricks/formbricks](repos/formbricks__formbricks.md): Watching · Business ops & CRM · Open-source survey tool (Qualtrics alternative).
+- [BrianRWagner/ai-marketing-claude-code-skills](repos/BrianRWagner__ai-marketing-claude-code-skills.md): Watching · Marketing & SEO · Marketing frameworks packaged as Claude Code skills.
+- [WomenDefiningAI/claudecode-writer](repos/WomenDefiningAI__claudecode-writer.md): Watching · Content & writing · Claude Code workspace that turns ideas into long-form articles and multi-format content.
+- [yerdaulet-damir/awesome-solo-ai](repos/yerdaulet-damir__awesome-solo-ai.md): Watching · Learning · AI tools, skills, MCP servers and growth playbooks for solo builders.
+- [ur-grue/autopunk-media-skills](repos/ur-grue__autopunk-media-skills.md): Watching · Content & writing · 400+ free AI skills and agents for YouTube, newsletters, podcasts and social.
+- [awesome-selfhosted/awesome-selfhosted](repos/awesome-selfhosted__awesome-selfhosted.md): Watching · Business ops & CRM · Huge list of self-hostable business and ops software.
+- [n8n-io/n8n](repos/n8n-io__n8n.md): Using · Business ops & CRM · Fair-code workflow automation platform with native AI steps.
+- [nocodb/nocodb](repos/nocodb__nocodb.md): Watching · Business ops & CRM · Free self-hostable Airtable alternative.
+- [twentyhq/twenty](repos/twentyhq__twenty.md): Watching · Business ops & CRM · Open-source CRM designed for AI, a Salesforce alternative.
+- [calcom/cal.diy](repos/calcom__cal.diy.md): Watching · Business ops & CRM · Open-source scheduling infrastructure (Cal.com).
+- [enescingoz/awesome-n8n-templates](repos/enescingoz__awesome-n8n-templates.md): Watching · Business ops & CRM · 280+ free n8n workflow templates (Gmail, Slack, Drive, AI and more).
+- [activepieces/activepieces](repos/activepieces__activepieces.md): Watching · Business ops & CRM · Open-source Zapier-style automation with AI agents and ~400 MCP servers.
+- [GD4AI/obsidian-llm-wiki](repos/GD4AI__obsidian-llm-wiki.md): Watching · Business ops & CRM · Karpathy-style LLM Wiki plugin for Obsidian that turns notes and PDFs into a linked knowledge base.
+- [quanru/obsidian-lifeos](repos/quanru__obsidian-lifeos.md): Watching · Business ops & CRM · Obsidian plugin pairing PARA with periodic notes.
+- [byarbrough/obsidian-para](repos/byarbrough__obsidian-para.md): Watching · Business ops & CRM · Template vault for using Obsidian with PARA.
+- [jamesmcroft/obsidian-ai-second-brain](repos/jamesmcroft__obsidian-ai-second-brain.md): Watching · Business ops & CRM · Starter template for an AI-augmented second brain using Obsidian and CODE/PARA.
+- [Vaultorial/obsidian-templates](repos/Vaultorial__obsidian-templates.md): Watching · Business ops & CRM · Obsidian templates including a PARA starter vault.
+- [dontoisme/second-brain-obsidian](repos/dontoisme__second-brain-obsidian.md): Watching · Business ops & CRM · PARA + MOC second-brain system for Obsidian with Claude Code integration.
+- [ekadetov/llm-wiki](repos/ekadetov__llm-wiki.md): Watching · Business ops & CRM · Claude Code plugin for persistent LLM wikis in Obsidian.
+- [eugeniughelbur/obsidian-second-brain](repos/eugeniughelbur__obsidian-second-brain.md): Watching · Business ops & CRM · Persistent memory for Claude Code and other agents, stored as markdown in Obsidian.
+- [GoogleCloudPlatform/knowledge-catalog](repos/GoogleCloudPlatform__knowledge-catalog.md): Watching · Business ops & CRM · Google Cloud Knowledge Catalog tools and samples, including OKF.
+- [kennyg/obsidian-okf](repos/kennyg__obsidian-okf.md): Watching · Business ops & CRM · Obsidian plugin to validate, author and export OKF bundles for AI agents.
