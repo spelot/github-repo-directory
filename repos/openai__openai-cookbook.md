@@ -8,17 +8,17 @@ url: https://github.com/openai/openai-cookbook
 category: "Learning"
 status: "Watching"
 tasks: ["openai api examples", "prompting guide", "learn api"]
-stars: 76919
-forks: 13039
-watchers: 1012
+stars: 77021
+forks: 13055
+watchers: 1013
 contributors: "382"
 latest_release: ""
-last_updated: 2026-11-02
+last_updated: 2026-11-09
 license: "MIT"
 risk: "Examples need an OpenAI API key (paid usage)."
 tags: [github, "Learning"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # openai/openai-cookbook
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Official OpenAI examples and guides for prompting and API use.
 
 **Status:** 👀 Watching · **Category:** Learning · **Helps:** developers  
-**Stars** 76919 · **Forks** 13039 · **Watchers** 1012 · **Contributors** 382 · **Open issues + PRs** 348  
-**Latest release:** none · **Last push:** 2026-11-02 · **License:** MIT  
+**Stars** 77021 · **Forks** 13055 · **Watchers** 1013 · **Contributors** 382 · **Open issues + PRs** 355  
+**Latest release:** none · **Last push:** 2026-11-09 · **License:** MIT  
 **Quality:** very active, huge community, many contributors, dedicated docs site
 
 ## Instructions

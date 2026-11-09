@@ -8,17 +8,17 @@ url: https://github.com/n8n-io/n8n
 category: "Business ops & CRM"
 status: "Using"
 tasks: ["workflow automation", "connect apps", "ai automation", "post-call workflow"]
-stars: 209384
-forks: 61359
-watchers: 1180
+stars: 209915
+forks: 61419
+watchers: 1176
 contributors: "431"
-latest_release: "n8n@2.45.7 (2026-10-30)"
-last_updated: 2026-11-02
+latest_release: "n8n@2.46.7 (2026-11-09)"
+last_updated: 2026-11-09
 license: "Other (see repo)"
 risk: "Fair-code license (not fully open source); cloud plan paid."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # n8n-io/n8n
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Fair-code workflow automation platform with native AI steps.
 
 **Status:** ✅ Using · **Category:** Business ops & CRM · **Helps:** Sage; developers  
-**Stars** 209384 · **Forks** 61359 · **Watchers** 1180 · **Contributors** 431 · **Open issues + PRs** 1181  
-**Latest release:** n8n@2.45.7 (2026-10-30) · **Last push:** 2026-11-02 · **License:** Other (see repo)  
+**Stars** 209915 · **Forks** 61419 · **Watchers** 1176 · **Contributors** 431 · **Open issues + PRs** 1256  
+**Latest release:** n8n@2.46.7 (2026-11-09) · **Last push:** 2026-11-09 · **License:** Other (see repo)  
 **Quality:** very active, huge community, many contributors, recent release, dedicated docs site
 
 ## Instructions

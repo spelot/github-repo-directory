@@ -8,17 +8,17 @@ url: https://github.com/anthropics/skills
 category: "Agents & AI tools"
 status: "Watching"
 tasks: ["agent skills", "claude skills", "skill examples", "build a skill"]
-stars: 186754
-forks: 22056
-watchers: 1132
+stars: 190550
+forks: 22415
+watchers: 1164
 contributors: "16"
 latest_release: ""
-last_updated: 2026-10-28
+last_updated: 2026-11-06
 license: "None detected"
 risk: "None known. No license detected at repo level; check per skill."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # anthropics/skills
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Anthropic's official public Agent Skills repo.
 
 **Status:** 👀 Watching · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 186754 · **Forks** 22056 · **Watchers** 1132 · **Contributors** 16 · **Open issues + PRs** 1466  
-**Latest release:** none · **Last push:** 2026-10-28 · **License:** None detected  
+**Stars** 190550 · **Forks** 22415 · **Watchers** 1164 · **Contributors** 16 · **Open issues + PRs** 1504  
+**Latest release:** none · **Last push:** 2026-11-06 · **License:** None detected  
 **Quality:** very active, huge community
 
 ## Instructions

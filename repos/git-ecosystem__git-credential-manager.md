@@ -8,17 +8,17 @@ url: https://github.com/git-ecosystem/git-credential-manager
 category: "Build"
 status: "Want to try"
 tasks: ["github login", "git authentication", "mac git errors", "credentials"]
-stars: 9421
-forks: 2970
-watchers: 349
-contributors: "83"
+stars: 9436
+forks: 2972
+watchers: 352
+contributors: "84"
 latest_release: "v3.0.2 (2026-10-26)"
-last_updated: 2026-10-29
+last_updated: 2026-11-09
 license: "Other (see repo)"
 risk: "Stores your GitHub credentials; install only from the official repo."
 tags: [github, "Build"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # git-ecosystem/git-credential-manager
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Secure Git credential storage that fixes GitHub sign-in errors.
 
 **Status:** 🧪 Want to try · **Category:** Build · **Helps:** Sage; developers  
-**Stars** 9421 · **Forks** 2970 · **Watchers** 349 · **Contributors** 83 · **Open issues + PRs** 151  
-**Latest release:** v3.0.2 (2026-10-26) · **Last push:** 2026-10-29 · **License:** Other (see repo)  
+**Stars** 9436 · **Forks** 2972 · **Watchers** 352 · **Contributors** 84 · **Open issues + PRs** 152  
+**Latest release:** v3.0.2 (2026-10-26) · **Last push:** 2026-11-09 · **License:** Other (see repo)  
 **Quality:** very active, big community, recent release
 
 ## Instructions

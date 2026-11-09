@@ -8,17 +8,17 @@ url: https://github.com/mattpocock/skills
 category: "Agents & AI tools"
 status: "Using"
 tasks: ["interview method", "grill me", "agent skills", "claude code skills", "coding agent"]
-stars: 310161
-forks: 26092
-watchers: 1592
+stars: 319427
+forks: 26745
+watchers: 1640
 contributors: "4"
 latest_release: "v1.3.2 (2026-10-29)"
-last_updated: 2026-11-01
+last_updated: 2026-11-09
 license: "MIT"
 risk: "None known. MIT; keep the attribution notice when adapting."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # mattpocock/skills
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Matt Pocock's agent skills, including the 'Grill Me' interview skill.
 
 **Status:** ✅ Using · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 310161 · **Forks** 26092 · **Watchers** 1592 · **Contributors** 4 · **Open issues + PRs** 204  
-**Latest release:** v1.3.2 (2026-10-29) · **Last push:** 2026-11-01 · **License:** MIT  
+**Stars** 319427 · **Forks** 26745 · **Watchers** 1640 · **Contributors** 4 · **Open issues + PRs** 227  
+**Latest release:** v1.3.2 (2026-10-29) · **Last push:** 2026-11-09 · **License:** MIT  
 **Quality:** very active, huge community, recent release
 
 ## Instructions

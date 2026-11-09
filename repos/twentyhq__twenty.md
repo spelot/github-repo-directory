@@ -8,17 +8,17 @@ url: https://github.com/twentyhq/twenty
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["crm", "open source crm", "salesforce alternative"]
-stars: 60322
-forks: 9922
+stars: 60690
+forks: 10028
 watchers: 228
 contributors: "465"
-latest_release: "twenty/v2.54.0 (2026-10-30)"
-last_updated: 2026-11-02
+latest_release: "twenty/v2.56.1 (2026-11-05)"
+last_updated: 2026-11-09
 license: "Other (see repo)"
 risk: "Self-host needs setup."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # twentyhq/twenty
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Open-source CRM designed for AI, a Salesforce alternative.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; developers  
-**Stars** 60322 · **Forks** 9922 · **Watchers** 228 · **Contributors** 465 · **Open issues + PRs** 162  
-**Latest release:** twenty/v2.54.0 (2026-10-30) · **Last push:** 2026-11-02 · **License:** Other (see repo)  
+**Stars** 60690 · **Forks** 10028 · **Watchers** 228 · **Contributors** 465 · **Open issues + PRs** 96  
+**Latest release:** twenty/v2.56.1 (2026-11-05) · **Last push:** 2026-11-09 · **License:** Other (see repo)  
 **Quality:** very active, huge community, many contributors, recent release, dedicated docs site
 
 ## Instructions

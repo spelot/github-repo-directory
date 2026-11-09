@@ -8,17 +8,17 @@ url: https://github.com/GoogleCloudPlatform/open-knowledge-format
 category: "Business ops & CRM"
 status: "Using"
 tasks: ["second brain", "knowledge base format", "markdown frontmatter", "agent-readable notes", "metadata"]
-stars: 1273
-forks: 90
-watchers: 26
+stars: 1410
+forks: 96
+watchers: 27
 contributors: "1"
 latest_release: ""
-last_updated: 2026-08-21
+last_updated: 2026-11-06
 license: "Apache-2.0"
 risk: "None. Spec only."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # GoogleCloudPlatform/open-knowledge-format
@@ -26,9 +26,9 @@ stale_after: 2026-12-02T00:00:00-08:00
 Google's vendor-neutral Markdown + YAML frontmatter format for knowledge that AI agents can read.
 
 **Status:** ✅ Using · **Category:** Business ops & CRM · **Helps:** Sage; developers  
-**Stars** 1273 · **Forks** 90 · **Watchers** 26 · **Contributors** 1 · **Open issues + PRs** 49  
-**Latest release:** none · **Last push:** 2026-08-21 · **License:** Apache-2.0  
-**Quality:** active, solid following, single maintainer
+**Stars** 1410 · **Forks** 96 · **Watchers** 27 · **Contributors** 1 · **Open issues + PRs** 50  
+**Latest release:** none · **Last push:** 2026-11-06 · **License:** Apache-2.0  
+**Quality:** very active, solid following, single maintainer
 
 ## Instructions
 

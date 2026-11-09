@@ -8,8 +8,8 @@ url: https://github.com/AgriciDaniel/claude-obsidian
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["second brain", "llm wiki", "obsidian claude code", "knowledge base", "agent memory"]
-stars: 16088
-forks: 1588
+stars: 16289
+forks: 1599
 watchers: 62
 contributors: "10"
 latest_release: "v3.0.1 (2026-10-21)"
@@ -17,8 +17,8 @@ last_updated: 2026-10-25
 license: "MIT"
 risk: "Use as a reference; read its provenance docs before letting several AIs write to the same vault."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # AgriciDaniel/claude-obsidian
@@ -26,9 +26,9 @@ stale_after: 2026-12-02T00:00:00-08:00
 Self-organizing second brain for Obsidian + Claude Code based on Karpathy's LLM Wiki.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage  
-**Stars** 16088 · **Forks** 1588 · **Watchers** 62 · **Contributors** 10 · **Open issues + PRs** 24  
+**Stars** 16289 · **Forks** 1599 · **Watchers** 62 · **Contributors** 10 · **Open issues + PRs** 25  
 **Latest release:** v3.0.1 (2026-10-21) · **Last push:** 2026-10-25 · **License:** MIT  
-**Quality:** very active, big community, recent release
+**Quality:** active, big community, recent release
 
 ## Instructions
 

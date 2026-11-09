@@ -8,17 +8,17 @@ url: https://github.com/ai-boost/awesome-prompts
 category: "Content & writing"
 status: "Watching"
 tasks: ["prompt library", "gpt prompts", "prompt engineering"]
-stars: 9172
-forks: 894
+stars: 9205
+forks: 897
 watchers: 79
-contributors: "13"
+contributors: "14"
 latest_release: ""
-last_updated: 2026-11-02
+last_updated: 2026-11-09
 license: "GPL-3.0"
 risk: "None. List only."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # ai-boost/awesome-prompts
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Curated prompts, frameworks and papers for LLMs and agents.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage  
-**Stars** 9172 · **Forks** 894 · **Watchers** 79 · **Contributors** 13 · **Open issues + PRs** 1  
-**Latest release:** none · **Last push:** 2026-11-02 · **License:** GPL-3.0  
+**Stars** 9205 · **Forks** 897 · **Watchers** 79 · **Contributors** 14 · **Open issues + PRs** 0  
+**Latest release:** none · **Last push:** 2026-11-09 · **License:** GPL-3.0  
 **Quality:** very active, big community
 
 ## Instructions

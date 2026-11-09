@@ -8,17 +8,17 @@ url: https://github.com/WomenDefiningAI/claudecode-writer
 category: "Content & writing"
 status: "Watching"
 tasks: ["long-form article", "repurpose content", "newsletter", "content pipeline"]
-stars: 222
-forks: 47
+stars: 223
+forks: 48
 watchers: 3
 contributors: "1"
 latest_release: ""
-last_updated: 2025-09-06
+last_updated: 2026-11-07
 license: "MIT"
 risk: "Stale: last push Sept 2025."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # WomenDefiningAI/claudecode-writer
@@ -26,9 +26,9 @@ stale_after: 2026-12-02T00:00:00-08:00
 Claude Code workspace that turns ideas into long-form articles and multi-format content.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage; clients  
-**Stars** 222 · **Forks** 47 · **Watchers** 3 · **Contributors** 1 · **Open issues + PRs** 0  
-**Latest release:** none · **Last push:** 2025-09-06 · **License:** MIT  
-**Quality:** stale (no push in 422+ days), small or new, single maintainer
+**Stars** 223 · **Forks** 48 · **Watchers** 3 · **Contributors** 1 · **Open issues + PRs** 0  
+**Latest release:** none · **Last push:** 2026-11-07 · **License:** MIT  
+**Quality:** very active, small or new, single maintainer
 
 ## Instructions
 

@@ -8,7 +8,7 @@ url: https://github.com/jamesmcroft/obsidian-ai-second-brain
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["second brain", "para", "ai skills", "obsidian starter"]
-stars: 56
+stars: 57
 forks: 47
 watchers: 2
 contributors: "1"
@@ -17,8 +17,8 @@ last_updated: 2026-04-01
 license: "MIT"
 risk: "None known."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # jamesmcroft/obsidian-ai-second-brain
@@ -26,9 +26,9 @@ stale_after: 2026-12-02T00:00:00-08:00
 Starter template for an AI-augmented second brain using Obsidian and CODE/PARA.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage  
-**Stars** 56 · **Forks** 47 · **Watchers** 2 · **Contributors** 1 · **Open issues + PRs** 0  
+**Stars** 57 · **Forks** 47 · **Watchers** 2 · **Contributors** 1 · **Open issues + PRs** 0  
 **Latest release:** v1.0.0 (2026-04-01) · **Last push:** 2026-04-01 · **License:** MIT  
-**Quality:** slowing (last push 215 days ago), small or new, single maintainer
+**Quality:** slowing (last push 222 days ago), small or new, single maintainer
 
 ## Instructions
 

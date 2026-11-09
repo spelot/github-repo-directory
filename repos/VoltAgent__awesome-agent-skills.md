@@ -8,17 +8,17 @@ url: https://github.com/VoltAgent/awesome-agent-skills
 category: "Agents & AI tools"
 status: "Watching"
 tasks: ["agent skills list", "find a skill", "claude code skills", "bot roster"]
-stars: 36769
-forks: 4049
-watchers: 226
-contributors: "271"
+stars: 37000
+forks: 4099
+watchers: 224
+contributors: "281"
 latest_release: ""
-last_updated: 2026-11-02
+last_updated: 2026-11-05
 license: "MIT"
 risk: "List only; vet each linked skill."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # VoltAgent/awesome-agent-skills
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Curated collection of 1,000+ agent skills for Claude Code and other agents.
 
 **Status:** 👀 Watching · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 36769 · **Forks** 4049 · **Watchers** 226 · **Contributors** 271 · **Open issues + PRs** 6  
-**Latest release:** none · **Last push:** 2026-11-02 · **License:** MIT  
+**Stars** 37000 · **Forks** 4099 · **Watchers** 224 · **Contributors** 281 · **Open issues + PRs** 29  
+**Latest release:** none · **Last push:** 2026-11-05 · **License:** MIT  
 **Quality:** very active, big community, many contributors
 
 ## Instructions

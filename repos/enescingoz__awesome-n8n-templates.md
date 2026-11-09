@@ -8,17 +8,17 @@ url: https://github.com/enescingoz/awesome-n8n-templates
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["n8n templates", "automation templates", "inbox automation", "crm automation"]
-stars: 26235
-forks: 6593
-watchers: 344
-contributors: "46"
+stars: 26340
+forks: 6613
+watchers: 343
+contributors: "45"
 latest_release: ""
 last_updated: 2026-09-12
 license: "Other (see repo)"
 risk: "Templates connect to your accounts; review each before importing."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # enescingoz/awesome-n8n-templates
@@ -26,7 +26,7 @@ stale_after: 2026-12-02T00:00:00-08:00
 280+ free n8n workflow templates (Gmail, Slack, Drive, AI and more).
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; clients  
-**Stars** 26235 · **Forks** 6593 · **Watchers** 344 · **Contributors** 46 · **Open issues + PRs** 84  
+**Stars** 26340 · **Forks** 6613 · **Watchers** 343 · **Contributors** 45 · **Open issues + PRs** 92  
 **Latest release:** none · **Last push:** 2026-09-12 · **License:** Other (see repo)  
 **Quality:** active, big community
 

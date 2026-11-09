@@ -8,8 +8,8 @@ url: https://github.com/joeyism/linkedin_scraper
 category: "Agents & AI tools"
 status: "Avoid"
 tasks: ["linkedin scraping", "linkedin profiles", "linkedin companies"]
-stars: 4643
-forks: 1011
+stars: 4664
+forks: 1012
 watchers: 54
 contributors: "28"
 latest_release: "v3.1.2 (2026-04-09)"
@@ -17,8 +17,8 @@ last_updated: 2026-04-09
 license: "GPL-3.0"
 risk: "SCRAPES with your LinkedIn login; direct account-restriction risk and breaks LinkedIn's terms. Do not use."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # joeyism/linkedin_scraper
@@ -26,9 +26,9 @@ stale_after: 2026-12-02T00:00:00-08:00
 Python/Playwright library that scrapes LinkedIn profiles, companies and posts with your logged-in session.
 
 **Status:** ⛔ Avoid · **Category:** Agents & AI tools · **Helps:** developers  
-**Stars** 4643 · **Forks** 1011 · **Watchers** 54 · **Contributors** 28 · **Open issues + PRs** 145  
+**Stars** 4664 · **Forks** 1012 · **Watchers** 54 · **Contributors** 28 · **Open issues + PRs** 145  
 **Latest release:** v3.1.2 (2026-04-09) · **Last push:** 2026-04-09 · **License:** GPL-3.0  
-**Quality:** slowing (last push 207 days ago), solid following
+**Quality:** slowing (last push 214 days ago), solid following
 
 ## Instructions
 

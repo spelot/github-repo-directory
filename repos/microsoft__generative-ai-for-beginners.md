@@ -8,17 +8,17 @@ url: https://github.com/microsoft/generative-ai-for-beginners
 category: "Learning"
 status: "Watching"
 tasks: ["learn generative ai", "ai course", "beginner lessons"]
-stars: 122856
-forks: 65752
-watchers: 1019
+stars: 123234
+forks: 66204
+watchers: 1024
 contributors: "159"
 latest_release: ""
-last_updated: 2026-11-02
+last_updated: 2026-11-04
 license: "MIT"
 risk: "Lesson code needs Azure/OpenAI keys; reading is free."
 tags: [github, "Learning"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # microsoft/generative-ai-for-beginners
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 21-lesson beginner course on building with generative AI.
 
 **Status:** 👀 Watching · **Category:** Learning · **Helps:** Sage; clients  
-**Stars** 122856 · **Forks** 65752 · **Watchers** 1019 · **Contributors** 159 · **Open issues + PRs** 3  
-**Latest release:** none · **Last push:** 2026-11-02 · **License:** MIT  
+**Stars** 123234 · **Forks** 66204 · **Watchers** 1024 · **Contributors** 159 · **Open issues + PRs** 18  
+**Latest release:** none · **Last push:** 2026-11-04 · **License:** MIT  
 **Quality:** very active, huge community, many contributors
 
 ## Instructions

@@ -8,17 +8,17 @@ url: https://github.com/hesreallyhim/awesome-claude-code
 category: "Agents & AI tools"
 status: "Watching"
 tasks: ["claude code resources", "claude code add-ons", "agents", "slash commands"]
-stars: 57121
-forks: 4905
-watchers: 324
+stars: 57602
+forks: 4934
+watchers: 325
 contributors: "14"
 latest_release: ""
-last_updated: 2026-11-02
+last_updated: 2026-11-09
 license: "Other (see repo)"
 risk: "List only; vet each linked tool."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # hesreallyhim/awesome-claude-code
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Hand-picked list of Claude Code resources, agents and add-ons.
 
 **Status:** 👀 Watching · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 57121 · **Forks** 4905 · **Watchers** 324 · **Contributors** 14 · **Open issues + PRs** 1093  
-**Latest release:** none · **Last push:** 2026-11-02 · **License:** Other (see repo)  
+**Stars** 57602 · **Forks** 4934 · **Watchers** 325 · **Contributors** 14 · **Open issues + PRs** 1210  
+**Latest release:** none · **Last push:** 2026-11-09 · **License:** Other (see repo)  
 **Quality:** very active, huge community
 
 ## Instructions

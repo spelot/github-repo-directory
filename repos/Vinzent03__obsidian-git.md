@@ -8,17 +8,17 @@ url: https://github.com/Vinzent03/obsidian-git
 category: "Business ops & CRM"
 status: "Want to try"
 tasks: ["second brain backup", "obsidian version control", "obsidian git", "sync vault"]
-stars: 12219
-forks: 666
-watchers: 39
-contributors: "74"
-latest_release: "2.42.0 (2026-10-18)"
-last_updated: 2026-10-30
+stars: 12246
+forks: 671
+watchers: 40
+contributors: "75"
+latest_release: "2.43.0 (2026-11-04)"
+last_updated: 2026-11-04
 license: "MIT"
 risk: "Pushing a vault to GitHub can expose private notes; keep sensitive folders out of the repo and check before the first push."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # Vinzent03/obsidian-git
@@ -26,8 +26,8 @@ stale_after: 2026-12-02T00:00:00-08:00
 Obsidian plugin that adds Git version control and automatic commit-and-sync to a vault.
 
 **Status:** 🧪 Want to try · **Category:** Business ops & CRM · **Helps:** Sage  
-**Stars** 12219 · **Forks** 666 · **Watchers** 39 · **Contributors** 74 · **Open issues + PRs** 102  
-**Latest release:** 2.42.0 (2026-10-18) · **Last push:** 2026-10-30 · **License:** MIT  
+**Stars** 12246 · **Forks** 671 · **Watchers** 40 · **Contributors** 75 · **Open issues + PRs** 91  
+**Latest release:** 2.43.0 (2026-11-04) · **Last push:** 2026-11-04 · **License:** MIT  
 **Quality:** very active, big community, recent release, dedicated docs site
 
 ## Instructions

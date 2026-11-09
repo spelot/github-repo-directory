@@ -8,7 +8,7 @@ url: https://github.com/ur-grue/autopunk-media-skills
 category: "Content & writing"
 status: "Watching"
 tasks: ["youtube skills", "podcast", "newsletter", "social media content", "media agents"]
-stars: 42
+stars: 44
 forks: 3
 watchers: 1
 contributors: "3"
@@ -17,8 +17,8 @@ last_updated: 2026-08-31
 license: "MIT"
 risk: "Low stars; vet before use."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-02T00:00:00-08:00 }
-stale_after: 2026-12-02T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
+stale_after: 2026-12-09T00:00:00-08:00
 ---
 
 # ur-grue/autopunk-media-skills
@@ -26,7 +26,7 @@ stale_after: 2026-12-02T00:00:00-08:00
 400+ free AI skills and agents for YouTube, newsletters, podcasts and social.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage; clients  
-**Stars** 42 · **Forks** 3 · **Watchers** 1 · **Contributors** 3 · **Open issues + PRs** 0  
+**Stars** 44 · **Forks** 3 · **Watchers** 1 · **Contributors** 3 · **Open issues + PRs** 0  
 **Latest release:** v4.0.0 (2026-07-27) · **Last push:** 2026-08-31 · **License:** MIT  
 **Quality:** active, small or new
 
