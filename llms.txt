@@ -63,3 +63,13 @@
 - [eugeniughelbur/obsidian-second-brain](repos/eugeniughelbur__obsidian-second-brain.md): Watching · Business ops & CRM · Persistent memory for Claude Code and other agents, stored as markdown in Obsidian.
 - [GoogleCloudPlatform/knowledge-catalog](repos/GoogleCloudPlatform__knowledge-catalog.md): Watching · Business ops & CRM · Google Cloud Knowledge Catalog tools and samples, including OKF.
 - [kennyg/obsidian-okf](repos/kennyg__obsidian-okf.md): Watching · Business ops & CRM · Obsidian plugin to validate, author and export OKF bundles for AI agents.
+- [coreyhaines31/marketingskills](repos/coreyhaines31__marketingskills.md): Want to try · Marketing & SEO · Free library of marketing skills for Claude Code and other agents covering CRO, copywriting, SEO, email, pricing and launches.
+- [AgriciDaniel/claude-seo](repos/AgriciDaniel__claude-seo.md): Want to try · Marketing & SEO · Claude Code SEO plugin with 26 sub-skills and 19 agents for technical, local, schema and AI-search (GEO) audits.
+- [zubair-trabzada/geo-seo-claude](repos/zubair-trabzada__geo-seo-claude.md): Watching · Marketing & SEO · Claude Code skill that audits a website for AI-search visibility (GEO/AEO): citability, AI crawler access, llms.txt, schema and brand mentions.
+- [blader/humanizer](repos/blader__humanizer.md): Want to try · Content & writing · Agent skill that finds and rewrites the signs of AI-generated writing, based on Wikipedia's "Signs of AI writing" guide.
+- [pipecat-ai/pipecat](repos/pipecat-ai__pipecat.md): Watching · Build · Open-source Python framework for building real-time voice and multimodal AI agents, including phone agents.
+- [AgriciDaniel/claude-blog](repos/AgriciDaniel__claude-blog.md): Watching · Content & writing · Claude Code plugin that researches sources and writes answer-first, SEO-ready blog posts, with planning and repurposing commands.
+- [elmohq/elmo](repos/elmohq__elmo.md): Watching · Marketing & SEO · Open-source platform that tracks how ChatGPT, Gemini, Perplexity and other AI engines mention and cite your brand.
+- [basicmachines-co/basic-memory](repos/basicmachines-co__basic-memory.md): Watching · Business ops & CRM · MCP server that gives Claude and other AIs a shared, persistent memory stored as local Markdown files (works with Obsidian).
+- [wasp-lang/open-saas](repos/wasp-lang__open-saas.md): Watching · Build · Free full-stack SaaS starter with landing page, auth, Stripe or Lemon Squeezy payments, admin dashboard and AI-coding rules.
+- [stripe/ai](repos/stripe__ai.md): Want to try · Build · Stripe's official AI repo: Stripe MCP server, agent toolkit and skills so AI agents can build and manage Stripe payments.
