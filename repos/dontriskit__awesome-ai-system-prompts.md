@@ -17,8 +17,8 @@ last_updated: 2026-09-29
 license: "MIT"
 risk: "Some prompts are leaked from commercial products; use as study material, don't copy wholesale into paid products."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # dontriskit/awesome-ai-system-prompts

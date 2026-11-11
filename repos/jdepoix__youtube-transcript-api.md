@@ -17,8 +17,8 @@ last_updated: 2026-11-09
 license: "MIT"
 risk: "SAFE for research use (reads public captions, no login). Uses an unofficial YouTube endpoint, so it can break; heavy use may get IP-blocked."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # jdepoix/youtube-transcript-api

@@ -17,8 +17,8 @@ last_updated: 2026-11-09
 license: "Apache-2.0"
 risk: "Needs an LLM API key."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # GD4AI/obsidian-llm-wiki

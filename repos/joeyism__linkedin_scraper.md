@@ -17,8 +17,8 @@ last_updated: 2026-04-09
 license: "GPL-3.0"
 risk: "SCRAPES with your LinkedIn login; direct account-restriction risk and breaks LinkedIn's terms. Do not use."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # joeyism/linkedin_scraper

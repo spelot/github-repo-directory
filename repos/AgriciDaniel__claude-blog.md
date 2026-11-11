@@ -17,8 +17,8 @@ last_updated: 2026-11-02
 license: "MIT"
 risk: "Reads public Reddit, YouTube and Hacker News discussions for research; optional Google APIs and image services may need keys or cost money. Don't install or uninstall from v2.2.0 (its uninstaller deletes skill folders); use v2.3.0+. Author upsells a paid Skool community."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # AgriciDaniel/claude-blog

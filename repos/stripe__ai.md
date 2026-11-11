@@ -17,8 +17,8 @@ last_updated: 2026-11-08
 license: "MIT"
 risk: "Gives an AI agent access to your Stripe account: start in a sandbox or with a restricted API key and review actions before using live mode."
 tags: [github, "Build"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # stripe/ai

@@ -85,7 +85,7 @@ stale_after: {stale}T00:00:00-08:00
 
 **Owner:** Sage Pelot (Sage Builds / sagepelot.com)  
 **Repos:** {len(rows)} · Using {counts['Using']} · Want to try {counts['Want to try']} · Watching {counts['Watching']} · Avoid {counts['Avoid']} · {with_vids} with verified explainer videos  
-**Numbers** pulled live from GitHub on {today}; dates are Pacific time. Numbers go stale, so re-check before a big decision.
+**Numbers** are saved GitHub snapshots, not live queries; dates are Pacific time. Re-check before a big decision.
 
 ---
 

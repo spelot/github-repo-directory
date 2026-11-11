@@ -17,8 +17,8 @@ last_updated: 2026-11-09
 license: "MIT"
 risk: "Scraping and ToS risk: the recommended setup scrapes the consumer ChatGPT, Google AI Mode, Gemini, Perplexity and Copilot apps through the paid Cloro API, which may break those services' terms. Also needs a paid OpenRouter key; Elmo Cloud from $29/mo. Self-hosting needs Docker and Postgres."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # elmohq/elmo

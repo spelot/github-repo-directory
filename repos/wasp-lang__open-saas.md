@@ -17,8 +17,8 @@ last_updated: 2026-11-06
 license: "MIT"
 risk: "Needs your own Stripe or Lemon Squeezy, email and hosting accounts (costs at scale). Built on the Wasp framework, so some lock-in."
 tags: [github, "Build"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # wasp-lang/open-saas
