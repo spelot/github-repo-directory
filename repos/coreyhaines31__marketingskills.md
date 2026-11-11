@@ -17,8 +17,8 @@ last_updated: 2026-11-06
 license: "MIT"
 risk: "None known for the skills themselves (plain instructions). README promotes paid partner tools and the author's agency; some optional integrations need paid tool accounts or API keys."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # coreyhaines31/marketingskills

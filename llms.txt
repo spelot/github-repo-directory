@@ -73,3 +73,4 @@
 - [basicmachines-co/basic-memory](repos/basicmachines-co__basic-memory.md): Watching · Business ops & CRM · MCP server that gives Claude and other AIs a shared, persistent memory stored as local Markdown files (works with Obsidian).
 - [wasp-lang/open-saas](repos/wasp-lang__open-saas.md): Watching · Build · Free full-stack SaaS starter with landing page, auth, Stripe or Lemon Squeezy payments, admin dashboard and AI-coding rules.
 - [stripe/ai](repos/stripe__ai.md): Want to try · Build · Stripe's official AI repo: Stripe MCP server, agent toolkit and skills so AI agents can build and manage Stripe payments.
+- [vostride/agent-qa](repos/vostride__agent-qa.md): Watching · Build · Natural-language web/mobile QA with persistent memidex memory, validated self-improvement and step screenshots (https://vostride.com).

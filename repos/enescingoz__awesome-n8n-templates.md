@@ -17,8 +17,8 @@ last_updated: 2026-09-12
 license: "Other (see repo)"
 risk: "Templates connect to your accounts; review each before importing."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # enescingoz/awesome-n8n-templates

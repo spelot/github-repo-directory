@@ -17,8 +17,8 @@ last_updated: 2026-11-07
 license: "MIT"
 risk: "SCRAPES login-walled platforms (X, Reddit, LinkedIn search, XiaoHongShu, Facebook, Instagram) by copying your Chrome logins (cookie reuse) into its own headless browser; README itself says platforms may restrict accounts and recommends a secondary account. Breaks X/Reddit/LinkedIn/Meta automated-access terms. Maintainer promises to work around anti-bot changes; sponsors are scraping/proxy vendors. Read-only (no posting). The no-login defaults (GitHub, YouTube, web) are lower risk. Never enable login channels on your main accounts. Install only from the GitHub install.md, not the PyPI 'agent-reach' package."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # Panniantong/Agent-Reach

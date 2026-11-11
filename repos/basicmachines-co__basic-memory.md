@@ -17,8 +17,8 @@ last_updated: 2026-11-08
 license: "AGPL-3.0"
 risk: "AGPL-3.0 license. Optional paid cloud ($15/mo). Gives AIs write access to your notes; back up the folder and test on a copy before pointing it at a real vault."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # basicmachines-co/basic-memory

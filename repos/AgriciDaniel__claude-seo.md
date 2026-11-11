@@ -17,8 +17,8 @@ last_updated: 2026-10-31
 license: "MIT"
 risk: "Crawls the sites you audit with a headless browser (audit only sites you own or have permission for); page content is sent to Claude. Optional free Google API keys. Author upsells a paid Skool 'Pro' version."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # AgriciDaniel/claude-seo

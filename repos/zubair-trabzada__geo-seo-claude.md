@@ -17,8 +17,8 @@ last_updated: 2026-11-08
 license: "MIT"
 risk: "One-line curl|bash installer (review the script first). Fetches the sites you audit and scans public platforms (YouTube, Reddit, LinkedIn and others) for brand mentions. Stores prospect and proposal data locally in ~/.geo-prospects. Upsells a paid Skool community. Overlaps claude-seo."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # zubair-trabzada/geo-seo-claude

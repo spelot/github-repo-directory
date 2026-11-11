@@ -17,8 +17,8 @@ last_updated: 2026-11-03
 license: "Unlicense"
 risk: "Downloading media can break YouTube's and other sites' terms and copyright; use for metadata/research only. Needs a JS runtime (deno) for full YouTube support."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-10T00:00:00-08:00 }
+stale_after: 2026-12-10T00:00:00-08:00
 ---
 
 # yt-dlp/yt-dlp
