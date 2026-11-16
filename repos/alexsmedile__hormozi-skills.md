@@ -8,17 +8,17 @@ url: https://github.com/alexsmedile/hormozi-skills
 category: "Marketing & SEO"
 status: "Watching"
 tasks: ["offer creation", "hooks", "landing page copy", "sales copy", "hormozi"]
-stars: 275
-forks: 56
-watchers: 1
+stars: 290
+forks: 59
+watchers: 2
 contributors: "1"
 latest_release: ""
 last_updated: 2026-10-06
 license: "MIT"
 risk: "None known."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # alexsmedile/hormozi-skills
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Skill library for Hormozi-style offers, hooks and landing copy.
 
 **Status:** 👀 Watching · **Category:** Marketing & SEO · **Helps:** Sage; clients  
-**Stars** 275 · **Forks** 56 · **Watchers** 1 · **Contributors** 1 · **Open issues + PRs** 2  
+**Stars** 290 · **Forks** 59 · **Watchers** 2 · **Contributors** 1 · **Open issues + PRs** 2  
 **Latest release:** none · **Last push:** 2026-10-06 · **License:** MIT  
 **Quality:** active, small or new, single maintainer
 

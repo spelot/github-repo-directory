@@ -8,17 +8,17 @@ url: https://github.com/awesome-selfhosted/awesome-selfhosted
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["self-hosted software", "open source alternatives", "compare vendors"]
-stars: 335395
-forks: 15783
-watchers: 3382
+stars: 337643
+forks: 15859
+watchers: 3393
 contributors: "397"
 latest_release: "1.0.0 (2023-08-22)"
 last_updated: 2026-11-07
 license: "Other (see repo)"
 risk: "List only."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # awesome-selfhosted/awesome-selfhosted
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Huge list of self-hostable business and ops software.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; developers  
-**Stars** 335395 · **Forks** 15783 · **Watchers** 3382 · **Contributors** 397 · **Open issues + PRs** 0  
+**Stars** 337643 · **Forks** 15859 · **Watchers** 3393 · **Contributors** 397 · **Open issues + PRs** 0  
 **Latest release:** 1.0.0 (2023-08-22) · **Last push:** 2026-11-07 · **License:** Other (see repo)  
 **Quality:** very active, huge community, many contributors, dedicated docs site
 

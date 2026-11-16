@@ -8,17 +8,17 @@ url: https://github.com/calcom/cal.diy
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["scheduling", "booking calls", "calendly alternative"]
-stars: 49845
-forks: 15586
-watchers: 203
+stars: 50093
+forks: 15656
+watchers: 204
 contributors: "435"
 latest_release: "v6.2.0 (2026-03-01)"
-last_updated: 2026-11-03
+last_updated: 2026-11-13
 license: "MIT"
 risk: "Self-host needs setup."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # calcom/cal.diy
@@ -26,9 +26,9 @@ stale_after: 2026-12-09T00:00:00-08:00
 Open-source scheduling infrastructure (Cal.com).
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; clients  
-**Stars** 49845 · **Forks** 15586 · **Watchers** 203 · **Contributors** 435 · **Open issues + PRs** 1622  
-**Latest release:** v6.2.0 (2026-03-01) · **Last push:** 2026-11-03 · **License:** MIT  
-**Quality:** very active, big community, many contributors
+**Stars** 50093 · **Forks** 15656 · **Watchers** 204 · **Contributors** 435 · **Open issues + PRs** 1638  
+**Latest release:** v6.2.0 (2026-03-01) · **Last push:** 2026-11-13 · **License:** MIT  
+**Quality:** very active, huge community, many contributors
 
 ## Instructions
 

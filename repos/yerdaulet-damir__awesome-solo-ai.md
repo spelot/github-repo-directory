@@ -8,17 +8,17 @@ url: https://github.com/yerdaulet-damir/awesome-solo-ai
 category: "Learning"
 status: "Watching"
 tasks: ["solopreneur tools", "growth playbooks", "mcp servers list"]
-stars: 48
-forks: 68
+stars: 50
+forks: 72
 watchers: 0
-contributors: "52"
+contributors: "53"
 latest_release: ""
-last_updated: 2026-11-06
+last_updated: 2026-11-15
 license: "Other (see repo)"
 risk: "List only; low stars."
 tags: [github, "Learning"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # yerdaulet-damir/awesome-solo-ai
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 AI tools, skills, MCP servers and growth playbooks for solo builders.
 
 **Status:** 👀 Watching · **Category:** Learning · **Helps:** Sage  
-**Stars** 48 · **Forks** 68 · **Watchers** 0 · **Contributors** 52 · **Open issues + PRs** 19  
-**Latest release:** none · **Last push:** 2026-11-06 · **License:** Other (see repo)  
+**Stars** 50 · **Forks** 72 · **Watchers** 0 · **Contributors** 53 · **Open issues + PRs** 24  
+**Latest release:** none · **Last push:** 2026-11-15 · **License:** Other (see repo)  
 **Quality:** very active, small or new, dedicated docs site
 
 ## Instructions

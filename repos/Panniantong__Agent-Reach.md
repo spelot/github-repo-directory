@@ -8,17 +8,17 @@ url: https://github.com/Panniantong/Agent-Reach
 category: "Agents & AI tools"
 status: "Watching"
 tasks: ["social media research", "read twitter", "read x", "reddit search", "youtube subtitles", "xiaohongshu", "linkedin jobs", "web search", "agent internet access"]
-stars: 110543
-forks: 9897
-watchers: 352
+stars: 112263
+forks: 10064
+watchers: 357
 contributors: "53"
 latest_release: "v1.6.1 (2026-11-01)"
 last_updated: 2026-11-07
 license: "MIT"
 risk: "SCRAPES login-walled platforms (X, Reddit, LinkedIn search, XiaoHongShu, Facebook, Instagram) by copying your Chrome logins (cookie reuse) into its own headless browser; README itself says platforms may restrict accounts and recommends a secondary account. Breaks X/Reddit/LinkedIn/Meta automated-access terms. Maintainer promises to work around anti-bot changes; sponsors are scraping/proxy vendors. Read-only (no posting). The no-login defaults (GitHub, YouTube, web) are lower risk. Never enable login channels on your main accounts. Install only from the GitHub install.md, not the PyPI 'agent-reach' package."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # Panniantong/Agent-Reach
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 One CLI that lets an AI agent search and read X, Reddit, YouTube, GitHub, LinkedIn jobs, XiaoHongShu, Bilibili and the web.
 
 **Status:** 👀 Watching · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 110543 · **Forks** 9897 · **Watchers** 352 · **Contributors** 53 · **Open issues + PRs** 88  
+**Stars** 112263 · **Forks** 10064 · **Watchers** 357 · **Contributors** 53 · **Open issues + PRs** 129  
 **Latest release:** v1.6.1 (2026-11-01) · **Last push:** 2026-11-07 · **License:** MIT  
 **Quality:** very active, huge community, recent release
 

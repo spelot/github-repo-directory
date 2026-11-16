@@ -8,17 +8,17 @@ url: https://github.com/basicmachines-co/basic-memory
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["ai memory", "mcp memory", "second brain", "markdown knowledge base", "obsidian", "shared memory across ais"]
-stars: 4541
-forks: 354
+stars: 4601
+forks: 361
 watchers: 14
-contributors: "55"
+contributors: "58"
 latest_release: "v1.0.0 (2026-10-29)"
-last_updated: 2026-11-08
+last_updated: 2026-11-15
 license: "AGPL-3.0"
 risk: "AGPL-3.0 license. Optional paid cloud ($15/mo). Gives AIs write access to your notes; back up the folder and test on a copy before pointing it at a real vault."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # basicmachines-co/basic-memory
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 MCP server that gives Claude and other AIs a shared, persistent memory stored as local Markdown files (works with Obsidian).
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; clients  
-**Stars** 4541 · **Forks** 354 · **Watchers** 14 · **Contributors** 55 · **Open issues + PRs** 79  
-**Latest release:** v1.0.0 (2026-10-29) · **Last push:** 2026-11-08 · **License:** AGPL-3.0  
+**Stars** 4601 · **Forks** 361 · **Watchers** 14 · **Contributors** 58 · **Open issues + PRs** 55  
+**Latest release:** v1.0.0 (2026-10-29) · **Last push:** 2026-11-15 · **License:** AGPL-3.0  
 **Quality:** very active, solid following, recent release, dedicated docs site
 
 ## Instructions

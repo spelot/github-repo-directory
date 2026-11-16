@@ -8,17 +8,17 @@ url: https://github.com/ComposioHQ/awesome-claude-skills
 category: "Agents & AI tools"
 status: "Watching"
 tasks: ["claude skills list", "find a skill", "integrations", "agent skills"]
-stars: 79119
-forks: 9625
-watchers: 464
+stars: 79641
+forks: 9741
+watchers: 468
 contributors: "28"
 latest_release: ""
 last_updated: 2026-09-18
 license: "None detected"
 risk: "List only; vet each linked skill before installing."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # ComposioHQ/awesome-claude-skills
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Curated list of Claude Skills for docs, dev, testing and integrations.
 
 **Status:** 👀 Watching · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 79119 · **Forks** 9625 · **Watchers** 464 · **Contributors** 28 · **Open issues + PRs** 1891  
+**Stars** 79641 · **Forks** 9741 · **Watchers** 468 · **Contributors** 28 · **Open issues + PRs** 1909  
 **Latest release:** none · **Last push:** 2026-09-18 · **License:** None detected  
 **Quality:** active, huge community
 

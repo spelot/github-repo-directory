@@ -8,17 +8,17 @@ url: https://github.com/AgriciDaniel/claude-seo
 category: "Marketing & SEO"
 status: "Want to try"
 tasks: ["seo audit", "technical seo", "schema", "local seo", "geo", "aeo", "ai search", "core web vitals", "sitemap", "content seo"]
-stars: 27649
-forks: 3583
-watchers: 175
-contributors: "28"
-latest_release: "v2.5.0 (2026-10-22)"
-last_updated: 2026-10-31
+stars: 29954
+forks: 3774
+watchers: 164
+contributors: "51"
+latest_release: "v2.6.2 (2026-11-15)"
+last_updated: 2026-11-15
 license: "MIT"
 risk: "Crawls the sites you audit with a headless browser (audit only sites you own or have permission for); page content is sent to Claude. Optional free Google API keys. Author upsells a paid Skool 'Pro' version."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # AgriciDaniel/claude-seo
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Claude Code SEO plugin with 26 sub-skills and 19 agents for technical, local, schema and AI-search (GEO) audits.
 
 **Status:** 🧪 Want to try · **Category:** Marketing & SEO · **Helps:** Sage; clients  
-**Stars** 27649 · **Forks** 3583 · **Watchers** 175 · **Contributors** 28 · **Open issues + PRs** 95  
-**Latest release:** v2.5.0 (2026-10-22) · **Last push:** 2026-10-31 · **License:** MIT  
+**Stars** 29954 · **Forks** 3774 · **Watchers** 164 · **Contributors** 51 · **Open issues + PRs** 58  
+**Latest release:** v2.6.2 (2026-11-15) · **Last push:** 2026-11-15 · **License:** MIT  
 **Quality:** very active, big community, recent release
 
 ## Instructions

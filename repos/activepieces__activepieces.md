@@ -8,17 +8,17 @@ url: https://github.com/activepieces/activepieces
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["workflow automation", "zapier alternative", "mcp servers", "ai agents"]
-stars: 25448
-forks: 4446
-watchers: 125
-contributors: "357"
+stars: 25566
+forks: 4474
+watchers: 126
+contributors: "355"
 latest_release: "0.93.0 (2026-11-08)"
-last_updated: 2026-11-09
+last_updated: 2026-11-16
 license: "Other (see repo)"
 risk: "Self-host or paid cloud."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # activepieces/activepieces
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Open-source Zapier-style automation with AI agents and ~400 MCP servers.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; developers  
-**Stars** 25448 · **Forks** 4446 · **Watchers** 125 · **Contributors** 357 · **Open issues + PRs** 877  
-**Latest release:** 0.93.0 (2026-11-08) · **Last push:** 2026-11-09 · **License:** Other (see repo)  
+**Stars** 25566 · **Forks** 4474 · **Watchers** 126 · **Contributors** 355 · **Open issues + PRs** 948  
+**Latest release:** 0.93.0 (2026-11-08) · **Last push:** 2026-11-16 · **License:** Other (see repo)  
 **Quality:** very active, big community, many contributors, recent release, dedicated docs site
 
 ## Instructions

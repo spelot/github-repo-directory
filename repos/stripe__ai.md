@@ -8,17 +8,17 @@ url: https://github.com/stripe/ai
 category: "Build"
 status: "Want to try"
 tasks: ["stripe mcp", "payments", "checkout", "subscriptions", "payment links", "stripe skills", "agent toolkit"]
-stars: 2051
+stars: 2067
 forks: 385
 watchers: 23
 contributors: "42"
 latest_release: ""
-last_updated: 2026-11-08
+last_updated: 2026-11-15
 license: "MIT"
 risk: "Gives an AI agent access to your Stripe account: start in a sandbox or with a restricted API key and review actions before using live mode."
 tags: [github, "Build"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # stripe/ai
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Stripe's official AI repo: Stripe MCP server, agent toolkit and skills so AI agents can build and manage Stripe payments.
 
 **Status:** 🧪 Want to try · **Category:** Build · **Helps:** Sage; clients; developers  
-**Stars** 2051 · **Forks** 385 · **Watchers** 23 · **Contributors** 42 · **Open issues + PRs** 43  
-**Latest release:** none · **Last push:** 2026-11-08 · **License:** MIT  
+**Stars** 2067 · **Forks** 385 · **Watchers** 23 · **Contributors** 42 · **Open issues + PRs** 47  
+**Latest release:** none · **Last push:** 2026-11-15 · **License:** MIT  
 **Quality:** very active, solid following, dedicated docs site
 
 ## Instructions

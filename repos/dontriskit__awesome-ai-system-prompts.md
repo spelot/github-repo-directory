@@ -8,17 +8,17 @@ url: https://github.com/dontriskit/awesome-ai-system-prompts
 category: "Content & writing"
 status: "Watching"
 tasks: ["system prompts", "bot prompts", "prompt patterns"]
-stars: 6289
-forks: 913
-watchers: 89
+stars: 6294
+forks: 914
+watchers: 90
 contributors: "5"
 latest_release: ""
 last_updated: 2026-09-29
 license: "MIT"
 risk: "Some prompts are leaked from commercial products; use as study material, don't copy wholesale into paid products."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # dontriskit/awesome-ai-system-prompts
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Curated system prompts from major AI tools.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage; developers  
-**Stars** 6289 · **Forks** 913 · **Watchers** 89 · **Contributors** 5 · **Open issues + PRs** 31  
+**Stars** 6294 · **Forks** 914 · **Watchers** 90 · **Contributors** 5 · **Open issues + PRs** 31  
 **Latest release:** none · **Last push:** 2026-09-29 · **License:** MIT  
 **Quality:** active, big community
 

@@ -8,17 +8,17 @@ url: https://github.com/Jakeschincariol/linkedin-agent-skill
 category: "Content & writing"
 status: "Want to try"
 tasks: ["linkedin posts", "linkedin comments", "hooks", "linkedin profile", "linkedin strategy", "claude skill"]
-stars: 3382
-forks: 541
-watchers: 31
+stars: 3629
+forks: 575
+watchers: 33
 contributors: "1"
 latest_release: ""
 last_updated: 2026-09-17
 license: "MIT"
 risk: "SAFE: drafts only, no LinkedIn session touched. You post yourself."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # Jakeschincariol/linkedin-agent-skill
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Free Claude skills for LinkedIn posts, comments, replies and profile work, all as drafts.
 
 **Status:** 🧪 Want to try · **Category:** Content & writing · **Helps:** Sage; clients  
-**Stars** 3382 · **Forks** 541 · **Watchers** 31 · **Contributors** 1 · **Open issues + PRs** 17  
+**Stars** 3629 · **Forks** 575 · **Watchers** 33 · **Contributors** 1 · **Open issues + PRs** 17  
 **Latest release:** none · **Last push:** 2026-09-17 · **License:** MIT  
 **Quality:** active, solid following, single maintainer
 

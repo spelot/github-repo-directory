@@ -8,17 +8,17 @@ url: https://github.com/sergebulaev/linkedin-skills
 category: "Content & writing"
 status: "Want to try"
 tasks: ["linkedin posts", "linkedin profile optimizer", "story bank", "content planner", "repurpose content", "claude skill"]
-stars: 5767
-forks: 936
-watchers: 33
+stars: 5954
+forks: 965
+watchers: 34
 contributors: "20"
 latest_release: "v1.1.28 (2026-10-27)"
-last_updated: 2026-11-03
+last_updated: 2026-11-10
 license: "MIT"
 risk: "Core skills SAFE (drafts only). FLAG: the Apify add-on scrapes LinkedIn and the Publora add-on auto-posts; both break LinkedIn's terms. Don't enable them."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # sergebulaev/linkedin-skills
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 12 Claude/Codex skills that draft LinkedIn posts, profile fixes, story banks and content plans.
 
 **Status:** 🧪 Want to try · **Category:** Content & writing · **Helps:** Sage; clients  
-**Stars** 5767 · **Forks** 936 · **Watchers** 33 · **Contributors** 20 · **Open issues + PRs** 5  
-**Latest release:** v1.1.28 (2026-10-27) · **Last push:** 2026-11-03 · **License:** MIT  
+**Stars** 5954 · **Forks** 965 · **Watchers** 34 · **Contributors** 20 · **Open issues + PRs** 5  
+**Latest release:** v1.1.28 (2026-10-27) · **Last push:** 2026-11-10 · **License:** MIT  
 **Quality:** very active, big community, recent release
 
 ## Instructions

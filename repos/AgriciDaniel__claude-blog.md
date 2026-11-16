@@ -8,8 +8,8 @@ url: https://github.com/AgriciDaniel/claude-blog
 category: "Content & writing"
 status: "Watching"
 tasks: ["blog writing", "seo blog post", "answer-first content", "editorial calendar", "topic clusters", "repurpose content", "content research"]
-stars: 2687
-forks: 461
+stars: 2766
+forks: 475
 watchers: 17
 contributors: "2"
 latest_release: "v2.3.2 (2026-11-02)"
@@ -17,8 +17,8 @@ last_updated: 2026-11-02
 license: "MIT"
 risk: "Reads public Reddit, YouTube and Hacker News discussions for research; optional Google APIs and image services may need keys or cost money. Don't install or uninstall from v2.2.0 (its uninstaller deletes skill folders); use v2.3.0+. Author upsells a paid Skool community."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # AgriciDaniel/claude-blog
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Claude Code plugin that researches sources and writes answer-first, SEO-ready blog posts, with planning and repurposing commands.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage; clients  
-**Stars** 2687 · **Forks** 461 · **Watchers** 17 · **Contributors** 2 · **Open issues + PRs** 4  
+**Stars** 2766 · **Forks** 475 · **Watchers** 17 · **Contributors** 2 · **Open issues + PRs** 6  
 **Latest release:** v2.3.2 (2026-11-02) · **Last push:** 2026-11-02 · **License:** MIT  
 **Quality:** very active, solid following, recent release
 

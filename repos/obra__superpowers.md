@@ -8,17 +8,17 @@ url: https://github.com/obra/superpowers
 category: "Agents & AI tools"
 status: "Watching"
 tasks: ["agent skills", "coding agent workflow", "brief an agent", "claude code methodology"]
-stars: 314985
-forks: 28019
-watchers: 1146
+stars: 318569
+forks: 28389
+watchers: 1154
 contributors: "37"
 latest_release: "v7.0.2 (2026-11-03)"
 last_updated: 2026-11-03
 license: "MIT"
 risk: "None known."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # obra/superpowers
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Agentic skills framework and method for briefing AI coding agents.
 
 **Status:** 👀 Watching · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 314985 · **Forks** 28019 · **Watchers** 1146 · **Contributors** 37 · **Open issues + PRs** 345  
+**Stars** 318569 · **Forks** 28389 · **Watchers** 1154 · **Contributors** 37 · **Open issues + PRs** 357  
 **Latest release:** v7.0.2 (2026-11-03) · **Last push:** 2026-11-03 · **License:** MIT  
 **Quality:** very active, huge community, recent release
 

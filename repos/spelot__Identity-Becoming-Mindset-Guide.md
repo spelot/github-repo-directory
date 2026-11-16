@@ -17,8 +17,8 @@ last_updated: 2026-10-27
 license: "MIT"
 risk: "None. Sage's own public repo; only Sage changes it."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # spelot/Identity-Becoming-Mindset-Guide
@@ -28,7 +28,7 @@ Sage's own Becoming Interview: an AI interviewer that writes who you're becoming
 **Status:** ✅ Using · **Category:** Content & writing · **Helps:** Sage; clients  
 **Stars** 0 · **Forks** 0 · **Watchers** 0 · **Contributors** 1 · **Open issues + PRs** 0  
 **Latest release:** none · **Last push:** 2026-10-27 · **License:** MIT  
-**Quality:** very active, small or new, single maintainer
+**Quality:** active, small or new, single maintainer
 
 ## Instructions
 

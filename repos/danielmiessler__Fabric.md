@@ -8,17 +8,17 @@ url: https://github.com/danielmiessler/Fabric
 category: "Content & writing"
 status: "Watching"
 tasks: ["writing patterns", "summarize", "extract wisdom", "analysis prompts", "cli ai"]
-stars: 44589
-forks: 4341
+stars: 44647
+forks: 4350
 watchers: 381
-contributors: "266"
-latest_release: "v1.4.567 (2026-11-08)"
-last_updated: 2026-11-08
+contributors: "274"
+latest_release: "v1.4.576 (2026-11-15)"
+last_updated: 2026-11-15
 license: "MIT"
 risk: "Needs an AI model API key to run the CLI; patterns can be copied free."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # danielmiessler/Fabric
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Open-source framework of reusable AI patterns for writing, analysis and extraction.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage; developers  
-**Stars** 44589 · **Forks** 4341 · **Watchers** 381 · **Contributors** 266 · **Open issues + PRs** 27  
-**Latest release:** v1.4.567 (2026-11-08) · **Last push:** 2026-11-08 · **License:** MIT  
+**Stars** 44647 · **Forks** 4350 · **Watchers** 381 · **Contributors** 274 · **Open issues + PRs** 22  
+**Latest release:** v1.4.576 (2026-11-15) · **Last push:** 2026-11-15 · **License:** MIT  
 **Quality:** very active, big community, many contributors, recent release
 
 ## Instructions

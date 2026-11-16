@@ -8,17 +8,17 @@ url: https://github.com/Vaultorial/obsidian-templates
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["obsidian templates", "para starter vault"]
-stars: 20
+stars: 21
 forks: 1
 watchers: 0
-contributors: "0"
+contributors: "1"
 latest_release: ""
 last_updated: 2026-10-25
 license: "MIT"
 risk: "Low stars. No GitHub description."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # Vaultorial/obsidian-templates
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Obsidian templates including a PARA starter vault.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage  
-**Stars** 20 · **Forks** 1 · **Watchers** 0 · **Contributors** 0 · **Open issues + PRs** 0  
+**Stars** 21 · **Forks** 1 · **Watchers** 0 · **Contributors** 1 · **Open issues + PRs** 0  
 **Latest release:** none · **Last push:** 2026-10-25 · **License:** MIT  
 **Quality:** active, small or new, single maintainer
 

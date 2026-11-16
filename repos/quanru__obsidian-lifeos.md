@@ -17,8 +17,8 @@ last_updated: 2026-10-15
 license: "MIT"
 risk: "None known."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # quanru/obsidian-lifeos
@@ -28,7 +28,7 @@ Obsidian plugin pairing PARA with periodic notes.
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage  
 **Stars** 591 · **Forks** 48 · **Watchers** 6 · **Contributors** 23 · **Open issues + PRs** 1  
 **Latest release:** 1.29.2 (2026-10-15) · **Last push:** 2026-10-15 · **License:** MIT  
-**Quality:** active, solid following, recent release, dedicated docs site
+**Quality:** active, solid following, dedicated docs site
 
 ## Instructions
 

@@ -8,17 +8,17 @@ url: https://github.com/coreyhaines31/marketingskills
 category: "Marketing & SEO"
 status: "Want to try"
 tasks: ["marketing skills", "copywriting", "cro", "landing page", "sales page", "email sequence", "seo audit", "pricing strategy", "launch plan", "ai seo"]
-stars: 59373
-forks: 8672
-watchers: 399
-contributors: "54"
-latest_release: "v2.14.2 (2026-11-06)"
-last_updated: 2026-11-06
+stars: 60753
+forks: 8857
+watchers: 404
+contributors: "61"
+latest_release: "v2.14.12 (2026-11-11)"
+last_updated: 2026-11-11
 license: "MIT"
 risk: "None known for the skills themselves (plain instructions). README promotes paid partner tools and the author's agency; some optional integrations need paid tool accounts or API keys."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # coreyhaines31/marketingskills
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Free library of marketing skills for Claude Code and other agents covering CRO, copywriting, SEO, email, pricing and launches.
 
 **Status:** 🧪 Want to try · **Category:** Marketing & SEO · **Helps:** Sage; clients  
-**Stars** 59373 · **Forks** 8672 · **Watchers** 399 · **Contributors** 54 · **Open issues + PRs** 91  
-**Latest release:** v2.14.2 (2026-11-06) · **Last push:** 2026-11-06 · **License:** MIT  
+**Stars** 60753 · **Forks** 8857 · **Watchers** 404 · **Contributors** 61 · **Open issues + PRs** 93  
+**Latest release:** v2.14.12 (2026-11-11) · **Last push:** 2026-11-11 · **License:** MIT  
 **Quality:** very active, huge community, recent release
 
 ## Instructions

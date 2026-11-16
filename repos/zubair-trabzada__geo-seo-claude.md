@@ -8,17 +8,17 @@ url: https://github.com/zubair-trabzada/geo-seo-claude
 category: "Marketing & SEO"
 status: "Watching"
 tasks: ["geo", "aeo", "ai search optimization", "citability", "llms.txt", "ai crawlers", "brand mentions", "schema", "seo proposal"]
-stars: 11593
-forks: 1746
+stars: 11717
+forks: 1754
 watchers: 79
 contributors: "20"
 latest_release: ""
-last_updated: 2026-11-08
+last_updated: 2026-11-15
 license: "MIT"
 risk: "One-line curl|bash installer (review the script first). Fetches the sites you audit and scans public platforms (YouTube, Reddit, LinkedIn and others) for brand mentions. Stores prospect and proposal data locally in ~/.geo-prospects. Upsells a paid Skool community. Overlaps claude-seo."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # zubair-trabzada/geo-seo-claude
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Claude Code skill that audits a website for AI-search visibility (GEO/AEO): citability, AI crawler access, llms.txt, schema and brand mentions.
 
 **Status:** 👀 Watching · **Category:** Marketing & SEO · **Helps:** Sage; clients  
-**Stars** 11593 · **Forks** 1746 · **Watchers** 79 · **Contributors** 20 · **Open issues + PRs** 27  
-**Latest release:** none · **Last push:** 2026-11-08 · **License:** MIT  
+**Stars** 11717 · **Forks** 1754 · **Watchers** 79 · **Contributors** 20 · **Open issues + PRs** 30  
+**Latest release:** none · **Last push:** 2026-11-15 · **License:** MIT  
 **Quality:** very active, big community
 
 ## Instructions

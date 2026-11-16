@@ -8,17 +8,17 @@ url: https://github.com/BrianRWagner/ai-marketing-claude-code-skills
 category: "Marketing & SEO"
 status: "Watching"
 tasks: ["marketing playbooks", "newsletter", "campaign planning", "claude code skills"]
-stars: 454
-forks: 104
+stars: 456
+forks: 105
 watchers: 5
 contributors: "1"
 latest_release: ""
-last_updated: 2026-03-19
-license: "None detected"
+last_updated: 2026-11-14
+license: "MIT"
 risk: "None known. Last push March 2026. No license detected."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # BrianRWagner/ai-marketing-claude-code-skills
@@ -26,9 +26,9 @@ stale_after: 2026-12-09T00:00:00-08:00
 Marketing frameworks packaged as Claude Code skills.
 
 **Status:** 👀 Watching · **Category:** Marketing & SEO · **Helps:** Sage; clients  
-**Stars** 454 · **Forks** 104 · **Watchers** 5 · **Contributors** 1 · **Open issues + PRs** 5  
-**Latest release:** none · **Last push:** 2026-03-19 · **License:** None detected  
-**Quality:** slowing (last push 235 days ago), small or new, single maintainer
+**Stars** 456 · **Forks** 105 · **Watchers** 5 · **Contributors** 1 · **Open issues + PRs** 0  
+**Latest release:** none · **Last push:** 2026-11-14 · **License:** MIT  
+**Quality:** very active, small or new, single maintainer
 
 ## Instructions
 

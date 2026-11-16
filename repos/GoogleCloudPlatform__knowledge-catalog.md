@@ -8,17 +8,17 @@ url: https://github.com/GoogleCloudPlatform/knowledge-catalog
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["okf tools", "knowledge catalog", "okf samples"]
-stars: 9640
+stars: 9679
 forks: 817
-watchers: 73
-contributors: "17"
+watchers: 71
+contributors: "20"
 latest_release: ""
-last_updated: 2026-11-06
+last_updated: 2026-11-15
 license: "Apache-2.0"
 risk: "Mostly Google Cloud oriented."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # GoogleCloudPlatform/knowledge-catalog
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Google Cloud Knowledge Catalog tools and samples, including OKF.
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** developers  
-**Stars** 9640 · **Forks** 817 · **Watchers** 73 · **Contributors** 17 · **Open issues + PRs** 220  
-**Latest release:** none · **Last push:** 2026-11-06 · **License:** Apache-2.0  
+**Stars** 9679 · **Forks** 817 · **Watchers** 71 · **Contributors** 20 · **Open issues + PRs** 212  
+**Latest release:** none · **Last push:** 2026-11-15 · **License:** Apache-2.0  
 **Quality:** very active, big community
 
 ## Instructions

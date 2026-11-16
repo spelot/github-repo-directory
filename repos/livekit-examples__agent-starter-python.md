@@ -9,16 +9,16 @@ category: "Build"
 status: "Watching"
 tasks: ["voice agent", "voice ai", "livekit", "python starter"]
 stars: 274
-forks: 236
+forks: 239
 watchers: 5
 contributors: "15"
 latest_release: ""
-last_updated: 2026-11-05
+last_updated: 2026-11-12
 license: "MIT"
 risk: "Needs LiveKit account plus speech/LLM API keys (paid usage)."
 tags: [github, "Build"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # livekit-examples/agent-starter-python
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Complete Python starter for LiveKit voice AI agents.
 
 **Status:** 👀 Watching · **Category:** Build · **Helps:** developers  
-**Stars** 274 · **Forks** 236 · **Watchers** 5 · **Contributors** 15 · **Open issues + PRs** 25  
-**Latest release:** none · **Last push:** 2026-11-05 · **License:** MIT  
+**Stars** 274 · **Forks** 239 · **Watchers** 5 · **Contributors** 15 · **Open issues + PRs** 27  
+**Latest release:** none · **Last push:** 2026-11-12 · **License:** MIT  
 **Quality:** very active, small or new, dedicated docs site
 
 ## Instructions

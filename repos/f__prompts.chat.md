@@ -8,17 +8,17 @@ url: https://github.com/f/prompts.chat
 category: "Content & writing"
 status: "Watching"
 tasks: ["prompt library", "role prompts", "drafting prompts", "writing prompts"]
-stars: 176710
-forks: 22543
-watchers: 1674
-contributors: "303"
+stars: 177658
+forks: 22656
+watchers: 1677
+contributors: "304"
 latest_release: ""
-last_updated: 2026-11-09
+last_updated: 2026-11-15
 license: "Other (see repo)"
 risk: "None. Free to read."
 tags: [github, "Content & writing"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # f/prompts.chat
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Community prompt library (formerly Awesome ChatGPT Prompts); self-hostable.
 
 **Status:** 👀 Watching · **Category:** Content & writing · **Helps:** Sage; clients  
-**Stars** 176710 · **Forks** 22543 · **Watchers** 1674 · **Contributors** 303 · **Open issues + PRs** 82  
-**Latest release:** none · **Last push:** 2026-11-09 · **License:** Other (see repo)  
+**Stars** 177658 · **Forks** 22656 · **Watchers** 1677 · **Contributors** 304 · **Open issues + PRs** 91  
+**Latest release:** none · **Last push:** 2026-11-15 · **License:** Other (see repo)  
 **Quality:** very active, huge community, many contributors, dedicated docs site
 
 ## Instructions

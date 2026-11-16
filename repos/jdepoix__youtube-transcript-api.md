@@ -8,8 +8,8 @@ url: https://github.com/jdepoix/youtube-transcript-api
 category: "Agents & AI tools"
 status: "Want to try"
 tasks: ["youtube transcript", "video research", "subtitles", "transcribe video", "content research"]
-stars: 8584
-forks: 861
+stars: 8626
+forks: 869
 watchers: 49
 contributors: "25"
 latest_release: "v1.2.5 (2026-11-05)"
@@ -17,8 +17,8 @@ last_updated: 2026-11-09
 license: "MIT"
 risk: "SAFE for research use (reads public captions, no login). Uses an unofficial YouTube endpoint, so it can break; heavy use may get IP-blocked."
 tags: [github, "Agents & AI tools"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # jdepoix/youtube-transcript-api
@@ -26,7 +26,7 @@ stale_after: 2026-12-09T00:00:00-08:00
 Python library that pulls the transcript or subtitles of a YouTube video.
 
 **Status:** 🧪 Want to try · **Category:** Agents & AI tools · **Helps:** Sage; developers  
-**Stars** 8584 · **Forks** 861 · **Watchers** 49 · **Contributors** 25 · **Open issues + PRs** 36  
+**Stars** 8626 · **Forks** 869 · **Watchers** 49 · **Contributors** 25 · **Open issues + PRs** 37  
 **Latest release:** v1.2.5 (2026-11-05) · **Last push:** 2026-11-09 · **License:** MIT  
 **Quality:** very active, big community, recent release
 

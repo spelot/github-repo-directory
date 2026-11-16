@@ -8,17 +8,17 @@ url: https://github.com/formbricks/formbricks
 category: "Business ops & CRM"
 status: "Watching"
 tasks: ["surveys", "forms", "audience research", "lead capture"]
-stars: 13225
-forks: 2608
-watchers: 46
+stars: 13246
+forks: 2614
+watchers: 47
 contributors: "312"
-latest_release: "6.1.4 (2026-11-05)"
-last_updated: 2026-11-09
+latest_release: "6.2.0 (2026-11-12)"
+last_updated: 2026-11-16
 license: "Other (see repo)"
 risk: "Self-host needs setup; hosted plan for scale."
 tags: [github, "Business ops & CRM"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # formbricks/formbricks
@@ -26,8 +26,8 @@ stale_after: 2026-12-09T00:00:00-08:00
 Open-source survey tool (Qualtrics alternative).
 
 **Status:** 👀 Watching · **Category:** Business ops & CRM · **Helps:** Sage; clients  
-**Stars** 13225 · **Forks** 2608 · **Watchers** 46 · **Contributors** 312 · **Open issues + PRs** 165  
-**Latest release:** 6.1.4 (2026-11-05) · **Last push:** 2026-11-09 · **License:** Other (see repo)  
+**Stars** 13246 · **Forks** 2614 · **Watchers** 47 · **Contributors** 312 · **Open issues + PRs** 157  
+**Latest release:** 6.2.0 (2026-11-12) · **Last push:** 2026-11-16 · **License:** Other (see repo)  
 **Quality:** very active, big community, many contributors, recent release, dedicated docs site
 
 ## Instructions

@@ -8,8 +8,8 @@ url: https://github.com/dubinc/dub.link
 category: "Marketing & SEO"
 status: "Watching"
 tasks: ["link tracking", "short links", "utm", "conversion attribution"]
-stars: 25147
-forks: 3402
+stars: 25181
+forks: 3409
 watchers: 88
 contributors: "88"
 latest_release: ""
@@ -17,8 +17,8 @@ last_updated: 2026-10-26
 license: "Other (see repo)"
 risk: "Self-host needs setup; hosted plan is paid. Repo renamed from dubinc/dub."
 tags: [github, "Marketing & SEO"]
-generated: { by: agent:doogie, at: 2026-11-09T00:00:00-08:00 }
-stale_after: 2026-12-09T00:00:00-08:00
+generated: { by: agent:doogie, at: 2026-11-16T00:00:00-08:00 }
+stale_after: 2026-12-16T00:00:00-08:00
 ---
 
 # dubinc/dub.link
@@ -26,9 +26,9 @@ stale_after: 2026-12-09T00:00:00-08:00
 Open-source link shortening and attribution platform for marketing.
 
 **Status:** 👀 Watching · **Category:** Marketing & SEO · **Helps:** Sage; clients  
-**Stars** 25147 · **Forks** 3402 · **Watchers** 88 · **Contributors** 88 · **Open issues + PRs** 73  
+**Stars** 25181 · **Forks** 3409 · **Watchers** 88 · **Contributors** 88 · **Open issues + PRs** 76  
 **Latest release:** none · **Last push:** 2026-10-26 · **License:** Other (see repo)  
-**Quality:** very active, big community, dedicated docs site
+**Quality:** active, big community, dedicated docs site
 
 ## Instructions
 
